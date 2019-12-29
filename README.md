@@ -1,1 +1,3 @@
-# Tweeter - basic Twitter clone developed with the MERN stack
+# Tweeter - basic Twitter clone
+
+Developed with the MERN stack
